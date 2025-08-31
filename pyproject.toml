@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "Dewarp scanned images"
 readme = "README.md"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "opencv-python>=4.11.0.86",
+]

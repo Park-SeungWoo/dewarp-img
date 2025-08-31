@@ -8,4 +8,16 @@ wheels/
 
 # Virtual environments
 .venv
+
+# IDE
 .idea
+
+# data files
+datas/
+results/
+
+# extra
+.DS_Store
+
+# uv
+uv.lock
