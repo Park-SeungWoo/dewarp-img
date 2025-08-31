@@ -1,0 +1,7 @@
+[project]
+name = "dewarp-img"
+version = "0.1.0"
+description = "Dewarp scanned images"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
